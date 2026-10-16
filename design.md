@@ -1,5 +1,5 @@
 ## Practical Exercise 3: Designing a Searching Agent
-
+![Group working session](group-meeting.jpeg)
 ---
 
 ## 1. Designing the Self-Driving Trailer Agent
